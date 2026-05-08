@@ -1,0 +1,366 @@
+Date,Pond_ID,Pond_Type,Target_Species,Season,Water_Temp_C,Weather_Condition,Rainfall_mm,pH_Level,Ammonia_ppm,Dissolved_Oxygen_mgL,Mortality_Count,Fish_Count,Daily_Feed_kg,Est_Avg_Weight_g,Feed_Cost_NPR,Labor_Cost_NPR,Market_Price_NPR,Estimated_Revenue_NPR,Daily_Profit_Loss_NPR,Stocking_Density,Harvest_Ready
+2025-01-01,GrowOut-A,Farming,Pangasius,Winter,17.0,Cloudy,0.0,7.9,0.05,8.5,0,10000,4.4,50.3,442,523,213,107139,0,Medium,No
+2025-01-02,GrowOut-A,Farming,Pangasius,Winter,15.7,Sunny,0.0,6.6,0.02,8.9,1,9999,4.2,50.5,443,512,219,110584,-528,Medium,No
+2025-01-03,GrowOut-A,Farming,Pangasius,Winter,15.5,Sunny,0.0,7.4,0.03,8.3,3,9996,5.0,50.9,513,491,214,108882,-181,Medium,No
+2025-01-04,GrowOut-A,Farming,Pangasius,Winter,15.5,Cloudy,0.0,6.7,0.05,8.1,1,9995,5.3,51.2,560,476,230,117701,-358,Medium,No
+2025-01-05,GrowOut-A,Farming,Pangasius,Winter,19.2,Sunny,0.0,7.1,0.0,8.0,1,9994,4.8,51.5,508,498,221,113747,-355,Medium,No
+2025-01-06,GrowOut-A,Farming,Pangasius,Winter,17.5,Rainy,3.6,7.5,0.0,7.2,1,9993,5.3,51.9,556,498,222,115137,-178,Medium,No
+2025-01-07,GrowOut-A,Farming,Pangasius,Winter,14.8,Sunny,0.0,7.2,0.02,7.9,0,9993,6.0,52.2,640,485,220,114760,-465,Medium,No
+2025-01-08,GrowOut-A,Farming,Pangasius,Winter,14.9,Sunny,0.0,6.9,0.03,9.0,0,9993,5.5,52.5,564,508,222,116468,-406,Medium,No
+2025-01-09,GrowOut-A,Farming,Pangasius,Winter,10.8,Sunny,0.0,7.0,0.05,9.0,2,9991,6.0,52.9,643,528,237,125260,-249,Medium,No
+2025-01-10,GrowOut-A,Farming,Pangasius,Winter,17.9,Sunny,0.0,7.4,0.08,7.8,2,9989,6.0,53.3,622,503,219,116599,-273,Medium,No
+2025-01-11,GrowOut-A,Farming,Pangasius,Winter,15.1,Sunny,0.0,7.0,0.07,8.7,0,9989,5.7,53.6,581,502,217,116184,-433,Medium,No
+2025-01-12,GrowOut-A,Farming,Pangasius,Winter,14.5,Sunny,0.0,7.3,0.04,8.8,0,9989,5.9,54.1,616,486,225,121591,22,Medium,No
+2025-01-13,GrowOut-A,Farming,Pangasius,Winter,14.7,Sunny,0.0,7.2,0.04,9.0,2,9987,6.2,54.5,625,521,204,111035,-353,Medium,No
+2025-01-14,GrowOut-A,Farming,Pangasius,Winter,17.2,Sunny,0.0,7.0,0.01,8.9,2,9985,4.4,54.7,464,499,221,120706,-546,Medium,No
+2025-01-15,GrowOut-A,Farming,Pangasius,Winter,16.2,Sunny,0.0,7.8,0.04,8.3,1,9984,4.7,55.1,491,491,219,120476,-119,Medium,No
+2025-01-16,GrowOut-A,Farming,Pangasius,Winter,15.0,Sunny,0.0,7.4,0.03,8.1,1,9983,6.0,55.5,645,501,214,118568,-303,Medium,No
+2025-01-17,GrowOut-A,Farming,Pangasius,Winter,14.8,Sunny,0.0,6.6,0.05,7.7,3,9980,6.2,55.9,659,507,224,124966,-309,Medium,No
+2025-01-18,GrowOut-A,Farming,Pangasius,Winter,17.9,Sunny,0.0,7.3,0.02,8.3,2,9978,5.6,56.4,572,502,221,124370,4,Medium,No
+2025-01-19,GrowOut-A,Farming,Pangasius,Winter,14.0,Sunny,0.0,7.0,0.06,8.2,1,9977,5.1,56.7,527,518,209,118230,-431,Medium,No
+2025-01-20,GrowOut-A,Farming,Pangasius,Winter,15.7,Sunny,0.0,7.5,0.09,7.5,1,9976,6.7,57.1,710,506,217,123610,-362,Medium,No
+2025-01-21,GrowOut-A,Farming,Pangasius,Winter,15.5,Sunny,0.0,7.0,0.04,8.2,3,9973,5.1,57.4,544,496,202,115635,-470,Medium,No
+2025-01-22,GrowOut-A,Farming,Pangasius,Winter,16.8,Sunny,0.0,7.2,0.05,7.7,2,9971,5.8,57.8,623,506,223,128520,-265,Medium,No
+2025-01-23,GrowOut-A,Farming,Pangasius,Winter,21.6,Sunny,0.0,7.4,0.06,8.3,3,9968,9.7,58.4,1042,507,223,129815,-254,Medium,No
+2025-01-24,GrowOut-A,Farming,Pangasius,Winter,18.4,Rainy,3.0,7.5,0.03,8.5,1,9967,5.9,58.7,618,481,216,126374,-466,Medium,No
+2025-01-25,GrowOut-A,Farming,Pangasius,Winter,17.5,Sunny,0.0,6.8,0.05,8.1,0,9967,5.5,59.1,581,517,225,132536,-201,Medium,No
+2025-01-26,GrowOut-A,Farming,Pangasius,Winter,16.3,Sunny,0.0,7.1,0.04,9.0,1,9966,6.9,59.6,742,495,212,125922,-193,Medium,No
+2025-01-27,GrowOut-A,Farming,Pangasius,Winter,15.8,Sunny,0.0,7.1,0.04,8.5,0,9966,7.0,60.0,731,496,215,128561,-370,Medium,No
+2025-01-28,GrowOut-A,Farming,Pangasius,Winter,15.4,Sunny,0.0,7.0,0.02,8.2,1,9965,4.9,60.4,518,511,224,134822,-150,Medium,No
+2025-01-29,GrowOut-A,Farming,Pangasius,Winter,15.1,Sunny,0.0,7.7,0.04,9.0,1,9964,6.5,60.9,678,511,216,131070,-126,Medium,No
+2025-01-30,GrowOut-A,Farming,Pangasius,Winter,18.1,Sunny,0.0,7.3,0.05,8.3,0,9964,6.3,61.4,655,489,221,135206,-43,Medium,No
+2025-01-31,GrowOut-A,Farming,Pangasius,Winter,16.6,Sunny,0.0,6.8,0.08,7.6,1,9963,6.4,61.9,673,512,217,133826,-117,Medium,No
+2025-02-01,GrowOut-A,Farming,Pangasius,Winter,15.2,Rainy,3.0,7.5,0.07,8.3,0,9963,7.1,62.3,736,492,218,135311,-359,Medium,No
+2025-02-02,GrowOut-A,Farming,Pangasius,Winter,17.2,Cloudy,0.0,7.8,0.1,7.5,1,9962,7.4,62.7,775,527,219,136791,-443,Medium,No
+2025-02-03,GrowOut-A,Farming,Pangasius,Winter,17.8,Cloudy,0.0,7.5,0.02,7.5,0,9962,5.3,63.1,546,488,216,135778,-173,Medium,No
+2025-02-04,GrowOut-A,Farming,Pangasius,Winter,15.6,Sunny,0.0,6.7,0.07,8.8,1,9961,5.1,63.5,534,504,223,141053,-164,Medium,No
+2025-02-05,GrowOut-A,Farming,Pangasius,Winter,14.8,Cloudy,0.0,7.1,0.05,9.0,1,9960,5.9,63.9,625,488,217,138108,-262,Medium,No
+2025-02-06,GrowOut-A,Farming,Pangasius,Winter,13.0,Sunny,0.0,7.6,0.11,7.8,7,9953,7.0,64.3,727,533,221,141435,-479,Medium,No
+2025-02-07,GrowOut-A,Farming,Pangasius,Winter,18.2,Sunny,0.0,7.0,0.02,8.5,0,9953,6.3,64.8,662,481,216,139310,-68,Medium,No
+2025-02-08,GrowOut-A,Farming,Pangasius,Winter,18.4,Sunny,0.0,7.3,0.01,7.9,1,9952,7.7,65.3,811,508,211,137122,-283,Medium,No
+2025-02-09,GrowOut-A,Farming,Pangasius,Winter,14.2,Cloudy,0.0,7.4,0.02,8.5,1,9951,6.4,65.8,678,489,227,148634,-52,Medium,No
+2025-02-10,GrowOut-A,Farming,Pangasius,Winter,13.9,Cloudy,0.0,6.9,0.02,8.5,1,9950,7.3,66.3,765,495,224,147769,-160,Medium,No
+2025-02-11,GrowOut-A,Farming,Pangasius,Winter,15.8,Cloudy,0.0,7.2,0.02,8.1,2,9948,5.9,66.7,632,507,236,156593,-231,Medium,No
+2025-02-12,GrowOut-A,Farming,Pangasius,Winter,19.0,Sunny,0.0,6.2,0.02,8.1,0,9948,7.1,67.2,716,518,214,143060,-170,Medium,No
+2025-02-13,GrowOut-A,Farming,Pangasius,Winter,16.7,Sunny,0.0,6.9,0.04,7.9,1,9947,6.1,67.5,676,524,220,147713,-558,Medium,No
+2025-02-14,GrowOut-A,Farming,Pangasius,Winter,15.2,Sunny,0.0,7.1,0.05,8.6,1,9946,5.8,67.9,599,477,220,148573,-216,Medium,No
+2025-02-15,GrowOut-A,Farming,Pangasius,Winter,15.9,Sunny,0.0,6.8,0.1,8.1,0,9946,8.0,68.5,846,504,228,155337,11,Medium,No
+2025-02-16,GrowOut-A,Farming,Pangasius,Winter,13.2,Sunny,0.0,7.7,0.07,8.6,0,9946,7.2,69.0,742,522,218,149608,-180,Medium,No
+2025-02-17,GrowOut-A,Farming,Pangasius,Winter,18.1,Rainy,0.6,6.8,0.12,7.2,5,9941,6.2,69.3,659,475,213,146738,-572,Medium,No
+2025-02-18,GrowOut-A,Farming,Pangasius,Winter,19.0,Sunny,0.0,7.1,0.01,7.8,0,9941,6.6,69.7,697,505,229,158671,-291,Medium,No
+2025-02-19,GrowOut-A,Farming,Pangasius,Winter,15.0,Sunny,0.0,7.2,0.05,8.9,1,9940,6.2,70.2,643,500,219,152816,-70,Medium,No
+2025-02-20,GrowOut-A,Farming,Pangasius,Winter,14.4,Rainy,3.3,7.6,0.0,9.0,1,9939,5.7,70.5,611,506,227,159059,-456,Medium,No
+2025-02-21,GrowOut-A,Farming,Pangasius,Winter,15.0,Sunny,0.0,6.8,0.09,7.8,1,9938,6.6,70.9,691,488,226,159241,-297,Medium,No
+2025-02-22,GrowOut-A,Farming,Pangasius,Winter,16.5,Sunny,0.0,7.5,0.08,8.2,0,9938,7.0,71.3,743,478,221,156596,-342,Medium,No
+2025-02-23,GrowOut-A,Farming,Pangasius,Winter,16.6,Cloudy,0.0,7.2,0.03,8.7,0,9938,6.2,71.7,640,471,220,156762,-236,Medium,No
+2025-02-24,GrowOut-A,Farming,Pangasius,Winter,18.7,Cloudy,0.0,6.9,0.01,7.3,2,9936,7.9,72.2,829,515,218,156389,-292,Medium,No
+2025-02-25,GrowOut-A,Farming,Pangasius,Winter,16.4,Sunny,0.0,7.3,0.08,8.4,0,9936,8.2,72.7,894,517,221,159639,-313,Medium,No
+2025-02-26,GrowOut-A,Farming,Pangasius,Winter,15.5,Sunny,0.0,7.3,0.04,8.1,1,9935,7.6,73.3,813,505,227,165309,19,Medium,No
+2025-02-27,GrowOut-A,Farming,Pangasius,Winter,15.3,Cloudy,0.0,7.0,0.08,8.6,0,9935,5.9,73.6,623,492,216,157943,-471,Medium,No
+2025-02-28,GrowOut-A,Farming,Pangasius,Winter,10.7,Sunny,0.0,7.2,0.01,9.0,0,9935,7.7,74.1,802,476,222,163433,-175,Medium,No
+2025-03-01,GrowOut-A,Farming,Pangasius,Summer,32.7,Sunny,0.0,7.1,0.02,5.1,2,9933,14.6,75.2,1535,508,251,187487,662,Medium,No
+2025-03-02,GrowOut-A,Farming,Pangasius,Summer,32.9,Sunny,0.0,7.2,0.14,4.6,5,9928,12.7,76.0,1339,483,252,190141,85,Medium,No
+2025-03-03,GrowOut-A,Farming,Pangasius,Summer,31.7,Sunny,0.0,7.4,0.04,6.1,0,9928,14.7,77.1,1557,489,260,199017,793,Medium,No
+2025-03-04,GrowOut-A,Farming,Pangasius,Summer,30.1,Rainy,16.4,7.7,0.13,6.0,6,9922,15.3,78.4,1574,491,245,190582,982,Medium,No
+2025-03-05,GrowOut-A,Farming,Pangasius,Summer,34.8,Sunny,0.0,6.8,0.06,5.0,0,9922,16.1,79.6,1712,497,276,217982,1077,Medium,No
+2025-03-06,GrowOut-A,Farming,Pangasius,Summer,28.2,Sunny,0.0,7.8,0.01,7.0,1,9921,17.7,80.8,1820,489,251,201206,659,Medium,No
+2025-03-07,GrowOut-A,Farming,Pangasius,Summer,31.9,Sunny,0.0,6.6,0.04,5.2,1,9920,15.8,82.2,1711,501,260,212010,1378,Medium,No
+2025-03-08,GrowOut-A,Farming,Pangasius,Summer,32.1,Sunny,0.0,7.2,0.04,6.0,0,9920,13.5,83.1,1397,491,269,221751,514,Medium,No
+2025-03-09,GrowOut-A,Farming,Pangasius,Summer,36.9,Sunny,0.0,7.4,0.06,4.6,3,9917,16.4,84.2,1732,511,253,211258,454,Medium,No
+2025-03-10,GrowOut-A,Farming,Pangasius,Summer,31.6,Sunny,0.0,7.3,0.06,5.6,3,9914,15.3,85.1,1637,515,242,204171,-54,Medium,No
+2025-03-11,GrowOut-A,Farming,Pangasius,Summer,32.6,Sunny,0.0,7.0,0.01,6.1,1,9913,19.3,86.3,2017,502,257,219861,516,Medium,No
+2025-03-12,GrowOut-A,Farming,Pangasius,Summer,34.3,Sunny,0.0,7.1,0.01,5.4,0,9913,14.0,87.2,1480,507,253,218697,270,Medium,No
+2025-03-13,GrowOut-A,Farming,Pangasius,Summer,33.5,Cloudy,0.0,7.1,0.08,5.4,1,9912,14.6,88.3,1575,532,242,211806,510,Medium,No
+2025-03-14,GrowOut-A,Farming,Pangasius,Summer,34.8,Sunny,0.0,7.0,0.05,6.0,0,9912,20.9,90.0,2218,482,262,233725,1715,Medium,No
+2025-03-15,GrowOut-A,Farming,Pangasius,Summer,29.2,Sunny,0.0,7.5,0.02,6.2,0,9912,17.8,91.1,1882,481,262,236582,494,Medium,No
+2025-03-16,GrowOut-A,Farming,Pangasius,Summer,30.0,Sunny,0.0,7.3,0.09,6.5,0,9912,19.5,92.4,1982,510,269,246369,974,Medium,No
+2025-03-17,GrowOut-A,Farming,Pangasius,Summer,30.9,Sunny,0.0,7.0,0.04,5.6,0,9912,14.7,93.5,1516,529,251,232620,692,Medium,No
+2025-03-18,GrowOut-A,Farming,Pangasius,Summer,28.9,Sunny,0.0,7.5,0.08,6.5,1,9911,18.7,95.0,2003,496,248,233503,1165,Medium,No
+2025-03-19,GrowOut-A,Farming,Pangasius,Summer,32.1,Sunny,0.0,7.3,0.04,6.7,2,9909,17.7,96.4,1879,526,257,245493,1111,Medium,No
+2025-03-20,GrowOut-A,Farming,Pangasius,Summer,30.2,Rainy,0.7,7.4,0.1,4.7,2,9907,15.9,97.5,1692,501,259,250177,580,Medium,No
+2025-03-21,GrowOut-A,Farming,Pangasius,Summer,35.1,Sunny,0.0,7.4,0.09,4.9,2,9905,16.5,98.6,1753,490,267,260761,614,Medium,No
+2025-03-22,GrowOut-A,Farming,Pangasius,Summer,31.3,Sunny,0.0,7.0,0.13,5.9,5,9900,21.0,99.9,2259,485,271,268022,610,Medium,No
+2025-03-23,GrowOut-A,Farming,Pangasius,Summer,33.1,Cloudy,0.0,7.0,0.07,5.6,1,9899,17.4,101.2,1818,509,269,269478,1108,Medium,No
+2025-03-24,GrowOut-A,Farming,Pangasius,Summer,34.7,Sunny,0.0,7.4,0.06,5.7,1,9898,16.9,102.3,1779,486,262,265292,561,Medium,No
+2025-03-25,GrowOut-A,Farming,Pangasius,Summer,37.1,Sunny,0.0,7.4,0.08,4.7,1,9897,21.9,104.1,2254,501,266,274054,1956,Medium,No
+2025-03-26,GrowOut-A,Farming,Pangasius,Summer,29.1,Sunny,0.0,7.2,0.01,6.6,2,9895,24.2,106.1,2479,524,255,267714,1990,Medium,No
+2025-03-27,GrowOut-A,Farming,Pangasius,Summer,34.4,Cloudy,0.0,7.2,0.06,5.5,3,9892,21.3,107.4,2166,495,261,277287,612,Medium,No
+2025-03-28,GrowOut-A,Farming,Pangasius,Summer,33.2,Sunny,0.0,7.6,0.07,6.3,1,9891,24.4,109.0,2519,520,251,270608,906,Medium,No
+2025-03-29,GrowOut-A,Farming,Pangasius,Summer,34.4,Sunny,0.0,7.0,0.01,5.9,0,9891,24.2,110.7,2616,482,260,284683,1274,Medium,No
+2025-03-30,GrowOut-A,Farming,Pangasius,Summer,32.5,Sunny,0.0,7.4,0.0,6.3,1,9890,24.7,112.7,2517,492,261,290911,2125,Medium,No
+2025-03-31,GrowOut-A,Farming,Pangasius,Summer,33.7,Sunny,0.0,7.1,0.02,5.6,0,9890,25.8,114.4,2693,479,273,308877,1418,Medium,No
+2025-04-01,GrowOut-A,Farming,Pangasius,Summer,32.3,Sunny,0.0,7.1,0.03,5.8,0,9890,25.5,116.2,2612,501,258,296498,1480,Medium,No
+2025-04-02,GrowOut-A,Farming,Pangasius,Summer,29.6,Sunny,0.0,7.5,0.06,6.0,3,9887,24.3,117.8,2522,512,261,303984,1004,Medium,No
+2025-04-03,GrowOut-A,Farming,Pangasius,Summer,33.5,Sunny,0.0,7.4,0.09,5.7,0,9887,25.4,119.8,2676,501,262,310329,2004,Medium,No
+2025-04-04,GrowOut-A,Farming,Pangasius,Summer,30.1,Sunny,0.0,7.4,0.14,5.6,7,9880,19.5,121.3,2020,518,256,306802,1041,Medium,No
+2025-04-05,GrowOut-A,Farming,Pangasius,Summer,33.5,Cloudy,0.0,7.6,0.09,5.7,1,9879,20.7,122.5,2219,489,254,307385,272,Medium,No
+2025-04-06,GrowOut-A,Farming,Pangasius,Summer,34.5,Sunny,0.0,7.2,0.0,6.9,1,9878,21.5,123.7,2323,503,270,329915,341,Medium,No
+2025-04-07,GrowOut-A,Farming,Pangasius,Summer,30.3,Sunny,0.0,7.4,0.01,6.8,1,9877,22.8,125.5,2291,492,252,312370,1666,Medium,No
+2025-04-08,GrowOut-A,Farming,Pangasius,Summer,32.3,Sunny,0.0,7.1,0.04,5.8,1,9876,27.7,127.3,2871,505,250,314304,1037,Medium,No
+2025-04-09,GrowOut-A,Farming,Pangasius,Summer,33.8,Sunny,0.0,7.3,0.05,6.3,0,9876,25.1,128.9,2638,508,265,337349,1041,Medium,No
+2025-04-10,GrowOut-A,Farming,Pangasius,Summer,31.5,Cloudy,0.0,7.2,0.04,5.9,0,9876,27.7,131.0,2971,509,269,348020,2099,Medium,No
+2025-04-11,GrowOut-A,Farming,Pangasius,Summer,37.5,Sunny,0.0,7.2,0.02,4.3,7,9869,31.0,132.8,3227,484,256,335514,602,Medium,No
+2025-04-12,GrowOut-A,Farming,Pangasius,Summer,32.2,Sunny,0.0,7.4,0.04,5.5,1,9868,27.8,134.9,2918,487,257,342117,1887,Medium,No
+2025-04-13,GrowOut-A,Farming,Pangasius,Summer,30.1,Sunny,0.0,7.0,0.0,5.5,2,9866,28.5,137.2,2927,489,262,354647,2459,Medium,No
+2025-04-14,GrowOut-A,Farming,Pangasius,Summer,34.0,Sunny,0.0,7.8,0.06,5.4,1,9865,22.0,138.9,2243,496,254,348043,1486,Medium,No
+2025-04-15,GrowOut-A,Farming,Pangasius,Summer,31.8,Rainy,16.6,6.9,0.05,6.0,0,9865,27.0,140.5,2913,501,254,352052,595,Medium,No
+2025-04-16,GrowOut-A,Farming,Pangasius,Summer,33.5,Cloudy,0.0,6.8,0.01,6.8,1,9864,30.2,142.3,3061,511,267,374774,1131,Medium,No
+2025-04-17,GrowOut-A,Farming,Pangasius,Summer,30.3,Cloudy,0.0,7.5,0.12,6.0,8,9856,27.2,144.3,2983,487,265,376889,1452,Medium,No
+2025-04-18,GrowOut-A,Farming,Pangasius,Summer,29.0,Sunny,0.0,7.4,0.01,6.5,1,9855,27.0,145.8,2874,476,270,387952,602,Medium,No
+2025-04-19,GrowOut-A,Farming,Pangasius,Summer,32.4,Rainy,6.0,7.4,0.04,6.4,0,9855,23.5,147.2,2499,532,250,362664,418,Medium,No
+2025-04-20,GrowOut-A,Farming,Pangasius,Summer,29.5,Sunny,0.0,7.4,0.07,5.1,1,9854,29.9,149.3,3174,483,256,376628,1603,Medium,No
+2025-04-21,GrowOut-A,Farming,Pangasius,Summer,32.5,Rainy,0.8,7.2,0.01,6.2,1,9853,32.1,151.5,3354,513,262,391095,1773,Medium,No
+2025-04-22,GrowOut-A,Farming,Pangasius,Summer,30.4,Sunny,0.0,6.9,0.06,6.5,3,9850,34.3,153.5,3628,500,253,382530,741,Medium,No
+2025-04-23,GrowOut-A,Farming,Pangasius,Summer,32.7,Sunny,0.0,7.2,0.02,5.3,0,9850,29.3,155.6,3065,504,265,406155,1913,Medium,No
+2025-04-24,GrowOut-A,Farming,Pangasius,Summer,33.1,Cloudy,0.0,7.0,0.02,6.5,0,9850,31.8,157.5,3374,500,270,418871,1179,Medium,No
+2025-04-25,GrowOut-A,Farming,Pangasius,Summer,29.2,Cloudy,0.0,7.5,0.04,6.6,1,9849,27.4,159.3,2875,494,255,400081,1112,Medium,No
+2025-04-26,GrowOut-A,Farming,Pangasius,Summer,30.1,Cloudy,0.0,7.2,0.01,6.2,1,9848,33.0,161.3,3402,507,260,413005,1171,Medium,No
+2025-04-27,GrowOut-A,Farming,Pangasius,Summer,33.0,Cloudy,0.0,7.0,0.02,6.3,0,9848,27.1,163.0,2798,493,271,435016,1246,Medium,No
+2025-04-28,GrowOut-A,Farming,Pangasius,Summer,39.7,Sunny,0.0,7.1,0.0,6.2,1,9847,37.4,165.9,3853,517,274,447611,3410,Medium,No
+2025-04-29,GrowOut-A,Farming,Pangasius,Summer,33.9,Cloudy,0.0,7.3,0.1,5.5,0,9847,29.2,167.6,3123,509,266,438995,821,Medium,No
+2025-04-30,GrowOut-A,Farming,Pangasius,Summer,33.3,Sunny,0.0,7.0,0.04,5.9,1,9846,28.8,169.3,2988,509,265,441736,894,Medium,No
+2025-05-01,GrowOut-A,Farming,Pangasius,Summer,30.5,Sunny,0.0,7.0,0.02,6.1,1,9845,33.2,171.8,3359,492,253,427917,2333,Medium,No
+2025-05-02,GrowOut-A,Farming,Pangasius,Summer,31.5,Sunny,0.0,7.3,0.05,5.6,0,9845,38.8,174.5,4105,496,263,451822,2390,Medium,No
+2025-05-03,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,33.1,Sunny,0.0,7.6,0.07,5.1,1,7999,16.4,101.4,1759,502,316,256307,0,Medium,No
+2025-05-04,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,31.6,Sunny,0.0,7.7,0.04,6.2,0,7999,17.6,102.8,1913,477,333,273825,1339,Medium,No
+2025-05-05,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,28.5,Sunny,0.0,7.5,0.1,7.3,1,7998,16.7,104.2,1745,498,319,265852,1296,Medium,No
+2025-05-06,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,28.1,Rainy,1.4,7.1,0.04,6.1,0,7998,15.4,105.5,1607,519,308,259887,1076,Medium,No
+2025-05-07,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,31.6,Cloudy,0.0,7.3,0.02,4.9,4,7994,14.3,106.5,1476,513,319,271584,426,Medium,No
+2025-05-08,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,31.4,Sunny,0.0,7.2,0.01,6.1,1,7993,18.5,107.8,1924,481,313,269695,814,Medium,No
+2025-05-09,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,33.7,Cloudy,0.0,6.9,0.01,6.4,0,7993,15.4,109.0,1592,509,323,281410,997,Medium,No
+2025-05-10,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,30.8,Cloudy,0.0,7.3,0.01,7.3,1,7992,19.6,110.5,2023,508,320,282597,1270,Medium,No
+2025-05-11,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,31.7,Cloudy,0.0,6.8,0.05,5.4,0,7992,18.5,112.2,1987,505,325,291428,1924,Medium,No
+2025-05-12,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,32.6,Sunny,0.0,7.6,0.06,6.1,0,7992,20.2,113.8,2089,500,308,280123,1349,Medium,No
+2025-05-13,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,33.0,Cloudy,0.0,7.1,0.11,5.3,6,7986,15.1,115.2,1593,510,316,290716,1214,Medium,No
+2025-05-14,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,33.5,Sunny,0.0,7.3,0.07,5.6,1,7985,21.6,116.8,2270,510,330,307774,1398,Medium,No
+2025-05-15,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,32.4,Rainy,13.9,7.3,0.03,7.3,2,7983,22.2,118.5,2398,490,307,290418,1207,Medium,No
+2025-05-16,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,29.4,Sunny,0.0,7.1,0.04,5.6,1,7982,17.0,120.2,1768,507,310,297425,1895,Medium,No
+2025-05-17,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,31.8,Cloudy,0.0,7.4,0.09,5.9,1,7981,16.8,121.9,1777,497,322,313269,2056,Medium,No
+2025-05-18,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,31.8,Cloudy,0.0,7.1,0.07,6.1,1,7980,18.6,123.7,1982,478,323,318842,2140,Medium,No
+2025-05-19,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,32.1,Cloudy,0.0,7.5,0.03,6.6,1,7979,19.0,125.0,2052,492,315,314173,684,Medium,No
+2025-05-20,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,29.0,Cloudy,0.0,6.8,0.01,6.6,1,7978,19.4,126.5,2017,477,317,319922,1260,Medium,No
+2025-05-21,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,36.6,Sunny,0.0,7.2,0.02,5.6,0,7978,21.0,128.4,2179,515,325,332922,2232,Medium,No
+2025-05-22,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,34.2,Sunny,0.0,7.8,0.02,5.6,3,7975,19.3,130.3,1986,505,328,340839,2353,Medium,No
+2025-05-23,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,35.6,Cloudy,0.0,6.9,0.13,5.1,5,7970,19.4,131.9,2124,495,310,325885,1132,Medium,No
+2025-05-24,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,33.2,Sunny,0.0,7.0,0.01,5.8,0,7970,17.4,133.5,1875,521,323,343670,1723,Medium,No
+2025-05-25,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,30.8,Sunny,0.0,7.4,0.04,6.5,2,7968,20.3,134.9,2130,501,335,360086,1017,Medium,No
+2025-05-26,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,33.0,Sunny,0.0,7.3,0.04,5.7,0,7968,24.0,136.8,2613,479,319,347717,1737,Medium,No
+2025-05-27,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,33.7,Rainy,0.5,7.3,0.03,6.0,2,7966,18.4,138.2,1928,493,310,341279,951,Medium,No
+2025-05-28,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,30.1,Sunny,0.0,7.3,0.02,6.4,1,7965,24.5,140.1,2608,524,309,344812,1502,Medium,No
+2025-05-29,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,30.8,Sunny,0.0,7.4,0.05,6.7,1,7964,26.7,142.5,2804,490,318,360889,2740,Medium,No
+2025-05-30,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,33.2,Cloudy,0.0,7.5,0.05,5.7,0,7964,26.7,144.4,2825,504,330,379501,1664,Medium,No
+2025-05-31,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Summer,29.6,Sunny,0.0,7.3,0.01,5.6,1,7963,18.5,146.0,1953,511,320,372031,1567,Medium,No
+2025-06-01,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.9,Rainy,16.2,7.1,0.08,6.7,2,7961,27.7,148.8,2885,509,322,381440,3690,Medium,No
+2025-06-02,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,26.1,Cloudy,0.0,7.4,0.04,6.4,1,7960,24.1,150.5,2583,537,310,371374,1029,Medium,No
+2025-06-03,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,26.8,Cloudy,0.0,7.8,0.04,6.5,1,7959,24.5,152.8,2608,482,329,400108,2883,Medium,No
+2025-06-04,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.4,Rainy,43.5,7.2,0.06,6.3,2,7957,25.1,155.2,2687,484,309,381592,2635,Medium,No
+2025-06-05,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,24.8,Rainy,9.9,6.9,0.05,7.7,0,7957,24.9,157.7,2630,483,315,395268,3153,Medium,No
+2025-06-06,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,32.4,Sunny,0.0,7.5,0.07,4.7,3,7954,26.1,159.9,2693,496,326,414621,2361,Medium,No
+2025-06-07,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.5,Rainy,8.8,7.2,0.05,8.2,1,7953,27.9,162.1,3025,516,300,386754,1660,Medium,No
+2025-06-08,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.9,Rainy,1.3,6.5,0.02,7.2,1,7952,26.3,164.2,2748,485,322,420441,2092,Medium,No
+2025-06-09,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,34.1,Rainy,16.5,7.5,0.05,5.7,1,7951,22.4,166.0,2368,517,310,409158,1501,Medium,No
+2025-06-10,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,33.1,Rainy,32.7,7.0,0.01,6.0,0,7951,22.9,167.6,2434,501,320,426428,1136,Medium,No
+2025-06-11,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.4,Cloudy,0.0,7.2,0.04,6.2,0,7951,22.1,169.5,2336,483,317,427219,1970,Medium,No
+2025-06-12,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.0,Sunny,0.0,7.3,0.04,6.7,0,7951,29.1,172.0,3109,474,340,464974,3175,Medium,No
+2025-06-13,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.6,Sunny,0.0,7.3,0.03,6.4,1,7950,22.9,173.9,2454,477,316,436872,1788,Medium,No
+2025-06-14,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.2,Rainy,31.1,7.4,0.04,6.4,1,7949,29.2,176.1,3053,490,338,473139,2309,Medium,No
+2025-06-15,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.7,Rainy,11.6,7.1,0.12,6.3,5,7944,26.6,178.3,2879,497,326,461751,2034,Medium,No
+2025-06-16,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.1,Rainy,1.9,7.4,0.02,6.6,0,7944,27.8,180.5,2904,520,312,447374,2029,Medium,No
+2025-06-17,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.2,Cloudy,0.0,7.1,0.04,6.6,0,7944,29.6,183.0,3128,512,323,469562,2775,Medium,No
+2025-06-18,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,32.0,Rainy,54.1,7.4,0.04,5.9,1,7943,26.2,185.7,2731,487,317,467580,3522,Medium,No
+2025-06-19,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.3,Rainy,10.9,7.4,0.01,7.0,1,7942,25.7,188.2,2664,506,322,481288,3164,Medium,No
+2025-06-20,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.4,Cloudy,0.0,6.9,0.08,6.2,1,7941,29.3,190.6,3138,525,313,473743,2243,Medium,No
+2025-06-21,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.2,Rainy,36.6,7.5,0.01,4.9,4,7937,26.8,192.5,2981,528,336,513365,1302,Medium,No
+2025-06-22,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.4,Rainy,4.1,7.0,0.07,6.3,1,7936,24.5,194.4,2555,495,329,507568,1847,Medium,No
+2025-06-23,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,25.1,Cloudy,0.0,7.4,0.05,7.1,2,7934,32.4,197.2,3481,514,320,500667,2989,Medium,No
+2025-06-24,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.3,Cloudy,0.0,7.3,0.02,6.5,1,7933,25.7,199.3,2682,521,337,532813,2345,Medium,No
+2025-06-25,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,25.5,Rainy,6.0,7.8,0.09,6.5,0,7933,30.2,201.5,3170,477,321,513118,1955,Medium,No
+2025-06-26,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.1,Rainy,4.1,7.1,0.0,6.9,2,7931,32.5,203.8,3527,492,331,535008,1885,Medium,No
+2025-06-27,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.6,Rainy,12.3,7.1,0.07,6.8,0,7931,28.7,206.0,2952,533,320,522812,2098,Medium,No
+2025-06-28,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,26.8,Sunny,0.0,7.2,0.07,6.2,0,7931,34.2,208.6,3499,495,324,536028,2687,Medium,No
+2025-06-29,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.9,Rainy,13.7,7.1,0.02,6.8,0,7931,29.3,210.9,3071,456,319,533575,2292,Medium,No
+2025-06-30,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,32.3,Rainy,3.5,7.4,0.08,5.3,2,7929,33.4,213.5,3551,498,321,543402,2433,Medium,No
+2025-07-01,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.1,Rainy,2.9,6.7,0.03,5.9,1,7928,31.5,215.8,3337,517,322,550898,1949,Medium,No
+2025-07-02,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.5,Rainy,1.4,6.9,0.05,5.9,0,7928,28.5,217.9,3013,500,314,542439,1715,Medium,No
+2025-07-03,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.5,Sunny,0.0,6.9,0.05,6.5,3,7925,39.5,220.9,4150,511,316,553200,2645,Medium,No
+2025-07-04,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.0,Cloudy,0.0,7.5,0.04,7.2,3,7922,35.2,223.9,3751,514,318,564048,3082,Medium,No
+2025-07-05,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.2,Rainy,5.7,7.7,0.06,6.9,1,7921,42.5,227.9,4215,495,322,581273,5420,Medium,No
+2025-07-06,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.8,Rainy,30.0,7.2,0.06,6.4,0,7921,36.8,230.8,3809,492,320,585013,3050,Medium,No
+2025-07-07,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.4,Sunny,0.0,7.1,0.01,7.1,0,7921,39.5,234.6,4140,502,331,615086,5321,Medium,No
+2025-07-08,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.9,Sunny,0.0,7.2,0.08,6.1,0,7921,39.5,237.5,4203,503,328,617046,2828,Medium,No
+2025-07-09,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.0,Rainy,3.0,7.5,0.11,6.3,5,7916,30.8,239.8,3326,501,318,603646,1585,Medium,No
+2025-07-10,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,24.2,Cloudy,0.0,6.9,0.07,7.4,1,7915,30.8,242.5,3179,501,333,639156,3357,Medium,No
+2025-07-11,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.8,Rainy,0.4,7.3,0.07,6.4,6,7909,30.9,245.6,3335,489,338,656548,3971,Medium,No
+2025-07-12,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.5,Rainy,55.2,7.5,0.01,7.1,0,7909,45.2,249.7,4705,511,300,592463,4512,Medium,No
+2025-07-13,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.2,Sunny,0.0,7.4,0.03,6.8,0,7909,38.3,253.3,4012,509,329,659102,4846,Medium,No
+2025-07-14,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,25.9,Rainy,79.6,7.3,0.01,7.2,0,7909,41.6,256.7,4416,480,313,635465,3521,Medium,No
+2025-07-15,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.9,Cloudy,0.0,7.5,0.03,7.2,0,7909,38.5,260.2,4027,494,328,674998,4559,Medium,No
+2025-07-16,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,26.8,Rainy,12.5,6.4,0.03,6.8,2,7907,47.5,264.4,5093,501,332,694083,5259,Medium,No
+2025-07-17,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.1,Rainy,18.8,7.4,0.06,5.7,0,7907,41.7,268.3,4345,492,312,661892,4784,Medium,No
+2025-07-18,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.4,Cloudy,0.0,7.0,0.08,6.4,2,7905,47.3,272.4,4930,510,302,650303,4186,Medium,No
+2025-07-19,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.4,Cloudy,0.0,6.7,0.08,6.0,1,7904,43.3,276.5,4638,499,328,716830,5403,Medium,No
+2025-07-20,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.3,Rainy,14.8,7.4,0.02,6.0,0,7904,52.2,281.3,5401,503,321,713710,6274,Medium,No
+2025-07-21,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.1,Cloudy,0.0,7.6,0.03,6.6,1,7903,49.3,285.5,5201,494,304,685917,4310,Medium,No
+2025-07-22,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.9,Sunny,0.0,7.2,0.01,6.1,2,7901,39.8,288.5,4047,470,344,784127,3440,Medium,No
+2025-07-23,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.4,Rainy,15.7,7.5,0.02,6.2,0,7901,42.6,291.7,4628,469,326,751339,3145,Medium,No
+2025-07-24,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.8,Rainy,3.6,7.7,0.07,5.4,0,7901,53.7,295.6,5768,509,326,761385,3768,Medium,No
+2025-07-25,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.3,Rainy,37.9,7.6,0.09,6.6,0,7901,38.0,298.5,4199,504,333,785363,2927,Medium,No
+2025-07-26,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.1,Rainy,21.1,7.7,0.0,6.8,1,7900,45.5,301.9,4899,507,314,748893,2934,Medium,No
+2025-07-27,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,33.0,Rainy,1.3,7.4,0.02,5.5,0,7900,50.3,305.6,5168,502,321,774971,3713,Medium,No
+2025-07-28,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.8,Rainy,1.1,7.2,0.04,6.4,2,7898,48.3,309.6,5136,503,307,750683,3872,Medium,No
+2025-07-29,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.1,Rainy,4.5,6.7,0.05,6.9,1,7897,41.9,312.8,4323,515,314,775637,3000,Medium,No
+2025-07-30,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.6,Cloudy,0.0,7.1,0.02,6.0,0,7897,47.8,316.8,5170,507,324,810573,4558,Medium,No
+2025-07-31,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.0,Rainy,14.7,6.9,0.05,6.2,0,7897,55.7,321.4,5726,516,304,771581,4801,Medium,No
+2025-08-01,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.6,Rainy,40.9,7.9,0.03,6.0,2,7895,44.7,325.0,4591,503,314,805685,3629,Medium,No
+2025-08-02,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.5,Cloudy,0.0,7.1,0.04,6.1,1,7894,49.4,329.2,5028,495,311,808197,4687,Medium,No
+2025-08-03,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.6,Rainy,0.6,7.2,0.06,6.7,0,7894,42.2,333.3,4390,503,321,844574,5496,Medium,No
+2025-08-04,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.9,Sunny,0.0,7.4,0.04,6.4,1,7893,48.0,337.0,4974,487,326,867141,3951,Medium,No
+2025-08-05,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.8,Rainy,13.8,7.2,0.03,6.1,0,7893,42.8,340.8,4386,494,327,879609,4928,Medium,No
+2025-08-06,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.8,Cloudy,0.0,7.7,0.04,5.5,4,7889,62.9,347.0,6855,503,330,903369,8333,Medium,No
+2025-08-07,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.1,Cloudy,0.0,7.0,0.04,6.5,1,7888,55.1,351.2,5844,502,333,922498,4571,Medium,No
+2025-08-08,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.0,Rainy,66.8,7.3,0.03,5.7,5,7883,65.2,356.2,6900,498,326,915383,4879,Medium,No
+2025-08-09,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.2,Cloudy,0.0,7.0,0.03,6.5,1,7882,61.1,360.8,6610,479,338,961213,5046,Medium,No
+2025-08-10,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,26.1,Rainy,17.2,6.8,0.09,6.8,0,7882,55.7,365.0,5877,510,321,923495,4240,Medium,No
+2025-08-11,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.4,Cloudy,0.0,7.0,0.06,6.7,2,7880,46.2,368.3,4782,513,318,922901,2742,Medium,No
+2025-08-12,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.1,Rainy,15.2,7.2,0.03,5.7,4,7876,56.7,373.0,5761,525,326,957706,5301,Medium,No
+2025-08-13,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.0,Rainy,7.6,7.1,0.16,4.2,13,7863,52.9,377.1,5469,507,318,942914,2734,Medium,No
+2025-08-14,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.3,Rainy,47.3,7.0,0.03,6.8,1,7862,49.3,380.8,5325,500,338,1011921,3880,Medium,No
+2025-08-15,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.3,Cloudy,0.0,6.8,0.08,7.3,0,7862,67.7,387.3,6939,485,331,1007879,9491,Medium,No
+2025-08-16,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.2,Rainy,21.2,7.2,0.05,7.1,2,7860,68.4,392.5,7230,522,327,1008811,5360,Medium,No
+2025-08-17,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.6,Rainy,1.7,6.7,0.04,6.6,2,7858,64.9,398.3,6949,504,321,1004679,6925,Medium,No
+2025-08-18,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,26.7,Rainy,32.6,7.4,0.15,6.0,4,7854,56.8,403.7,5996,503,316,1001928,6400,Medium,No
+2025-08-19,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.0,Rainy,82.8,7.2,0.01,6.9,0,7854,58.8,408.0,6221,496,327,1047849,4327,Medium,No
+2025-08-20,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.0,Rainy,20.1,6.8,0.01,6.1,0,7854,53.3,412.0,5666,495,309,999877,3547,Medium,No
+2025-08-21,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,26.6,Sunny,0.0,7.1,0.0,7.2,1,7853,60.8,417.1,6430,510,335,1097288,6339,Medium,No
+2025-08-22,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.5,Rainy,15.0,7.0,0.04,6.8,1,7852,73.2,422.5,7922,485,318,1054955,4944,Medium,No
+2025-08-23,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,30.2,Sunny,0.0,7.3,0.09,6.6,0,7852,62.2,427.8,6402,524,323,1084985,6516,Medium,No
+2025-08-24,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.7,Rainy,4.2,7.6,0.11,7.4,6,7846,64.8,434.7,6835,521,311,1060714,8682,Medium,No
+2025-08-25,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.5,Rainy,24.8,6.6,0.06,6.5,1,7845,62.6,440.1,6345,495,327,1128995,6871,Medium,No
+2025-08-26,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,29.6,Cloudy,0.0,7.2,0.06,6.0,1,7844,66.6,445.3,6717,487,316,1103767,5546,Medium,No
+2025-08-27,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,31.6,Rainy,8.9,7.2,0.01,6.2,0,7844,66.6,451.0,6982,470,326,1153272,7124,Medium,No
+2025-08-28,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.8,Rainy,35.2,7.4,0.02,5.7,0,7844,68.8,456.3,7299,481,327,1170404,5814,Medium,No
+2025-08-29,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.0,Rainy,35.0,7.3,0.02,6.5,1,7843,82.0,463.2,8877,511,314,1140724,7461,Medium,No
+2025-08-30,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.0,Cloudy,0.0,7.0,0.02,6.5,1,7842,81.1,470.7,8908,505,309,1140590,8618,Medium,No
+2025-08-31,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,27.9,Cloudy,0.0,7.1,0.03,6.4,1,7841,75.0,477.5,8073,507,335,1254266,9124,Medium,No
+2025-09-01,GrowOut-B,Farming,Rohu-Bhakur Polyculture,Monsoon,28.2,Rainy,27.6,7.0,0.03,6.7,1,7840,72.3,483.1,7697,472,318,1204426,5641,Medium,No
+2025-09-02,Nursery,Nursery,Rohu,Monsoon,29.4,Rainy,4.5,7.3,0.0,7.0,2,49998,2.5,2.0,259,503,488,48798,0,High,No
+2025-09-03,Nursery,Nursery,Rohu,Monsoon,30.0,Sunny,0.0,6.9,0.05,5.8,2,49996,3.0,2.1,312,489,510,53546,1747,High,No
+2025-09-04,Nursery,Nursery,Rohu,Monsoon,32.8,Cloudy,0.0,6.9,0.04,6.2,0,49996,2.7,2.1,288,484,507,53231,-772,High,No
+2025-09-05,Nursery,Nursery,Rohu,Monsoon,30.7,Rainy,38.8,7.1,0.15,5.6,4,49992,3.1,2.2,329,479,495,54441,1662,High,No
+2025-09-06,Nursery,Nursery,Rohu,Monsoon,26.1,Rainy,11.3,6.8,0.08,6.5,1,49991,2.7,2.2,288,492,492,54110,-781,High,No
+2025-09-07,Nursery,Nursery,Rohu,Monsoon,26.9,Sunny,0.0,7.0,0.05,6.3,1,49990,3.3,2.2,342,485,496,54549,-828,High,No
+2025-09-08,Nursery,Nursery,Rohu,Monsoon,27.8,Cloudy,0.0,7.5,0.05,6.1,1,49989,3.8,2.3,400,474,492,56568,1584,High,No
+2025-09-09,Nursery,Nursery,Rohu,Monsoon,25.7,Cloudy,0.0,7.4,0.03,8.0,0,49989,3.6,2.3,361,510,496,57027,-871,High,No
+2025-09-10,Nursery,Nursery,Rohu,Monsoon,31.4,Rainy,4.3,6.9,0.07,6.1,3,49986,4.0,2.4,423,480,487,58424,1528,High,No
+2025-09-11,Nursery,Nursery,Rohu,Monsoon,32.4,Cloudy,0.0,7.5,0.06,5.3,2,49984,3.9,2.4,414,515,506,60701,-931,High,No
+2025-09-12,Nursery,Nursery,Rohu,Monsoon,31.8,Rainy,8.6,6.6,0.07,6.0,0,49984,3.8,2.5,396,506,505,63105,1622,High,No
+2025-09-13,Nursery,Nursery,Rohu,Monsoon,32.3,Rainy,8.3,7.9,0.03,6.5,3,49981,3.3,2.5,348,504,505,63101,-856,High,No
+2025-09-14,Nursery,Nursery,Rohu,Monsoon,32.9,Rainy,8.5,7.6,0.08,5.7,2,49979,4.3,2.6,438,525,499,64843,1528,High,No
+2025-09-15,Nursery,Nursery,Rohu,Monsoon,28.0,Rainy,31.6,7.0,0.1,7.0,0,49979,3.7,2.6,383,481,497,64583,-864,High,No
+2025-09-16,Nursery,Nursery,Rohu,Monsoon,27.6,Cloudy,0.0,7.3,0.07,5.7,1,49978,3.3,2.7,352,513,522,70439,1742,High,No
+2025-09-17,Nursery,Nursery,Rohu,Monsoon,28.1,Rainy,1.9,6.8,0.02,5.7,0,49978,4.5,2.7,477,496,501,67605,-973,High,No
+2025-09-18,Nursery,Nursery,Rohu,Monsoon,29.0,Rainy,55.9,7.2,0.14,6.1,9,49969,3.6,2.8,375,539,519,72615,1667,High,No
+2025-09-19,Nursery,Nursery,Rohu,Monsoon,29.5,Rainy,4.4,7.1,0.03,6.6,1,49968,3.7,2.8,395,494,485,67857,-890,High,No
+2025-09-20,Nursery,Nursery,Rohu,Monsoon,28.0,Rainy,6.4,6.9,0.02,5.0,0,49968,5.0,2.9,526,492,509,73758,1525,High,No
+2025-09-21,Nursery,Nursery,Rohu,Monsoon,27.7,Cloudy,0.0,7.1,0.04,6.3,1,49967,4.7,3.0,489,506,489,73302,1447,High,No
+2025-09-22,Nursery,Nursery,Rohu,Monsoon,30.7,Cloudy,0.0,7.0,0.06,5.6,0,49967,3.7,3.0,387,497,492,73751,-884,High,No
+2025-09-23,Nursery,Nursery,Rohu,Monsoon,28.8,Sunny,0.0,6.9,0.05,5.7,0,49967,4.5,3.1,468,489,494,76519,1511,High,No
+2025-09-24,Nursery,Nursery,Rohu,Monsoon,26.4,Cloudy,0.0,6.9,0.05,6.3,0,49967,4.6,3.1,472,485,493,76365,-957,High,No
+2025-09-25,Nursery,Nursery,Rohu,Monsoon,30.7,Cloudy,0.0,6.8,0.03,6.5,1,49966,4.6,3.2,495,522,493,78826,1445,High,No
+2025-09-26,Nursery,Nursery,Rohu,Monsoon,28.6,Rainy,5.7,7.5,0.04,6.0,1,49965,5.3,3.2,550,483,518,82822,-1035,High,No
+2025-09-27,Nursery,Nursery,Rohu,Monsoon,32.0,Rainy,38.8,6.9,0.06,5.4,1,49964,5.1,3.3,527,503,501,82605,1472,High,No
+2025-09-28,Nursery,Nursery,Rohu,Monsoon,31.5,Cloudy,0.0,6.8,0.02,5.4,1,49963,5.0,3.4,510,516,503,85447,1485,High,No
+2025-09-29,Nursery,Nursery,Rohu,Monsoon,27.6,Cloudy,0.0,7.5,0.04,7.3,0,49963,5.7,3.4,568,517,493,83748,-1085,High,No
+2025-09-30,Nursery,Nursery,Rohu,Monsoon,28.7,Rainy,56.3,7.3,0.05,6.7,1,49962,6.0,3.5,638,491,513,89707,1432,High,No
+2025-10-01,Nursery,Nursery,Rohu,Autumn,23.1,Sunny,0.0,7.4,0.06,6.0,1,49961,5.4,3.6,576,497,606,108995,1953,High,No
+2025-10-02,Nursery,Nursery,Rohu,Autumn,25.5,Sunny,0.0,7.5,0.01,6.6,1,49960,6.3,3.7,677,494,594,109802,1794,High,No
+2025-10-03,Nursery,Nursery,Rohu,Autumn,25.5,Sunny,0.0,7.8,0.01,7.4,1,49959,6.2,3.7,649,477,571,105548,-1128,High,No
+2025-10-04,Nursery,Nursery,Rohu,Autumn,25.7,Cloudy,0.0,7.2,0.06,7.5,0,49959,5.7,3.8,595,508,604,114666,1915,High,No
+2025-10-05,Nursery,Nursery,Rohu,Autumn,23.5,Sunny,0.0,6.8,0.14,7.2,4,49955,5.6,3.9,582,501,610,118843,1955,High,No
+2025-10-06,Nursery,Nursery,Rohu,Autumn,26.6,Sunny,0.0,7.3,0.08,6.4,0,49955,6.2,4.0,646,522,582,116295,1739,High,No
+2025-10-07,Nursery,Nursery,Rohu,Autumn,27.7,Sunny,0.0,7.0,0.05,5.6,0,49955,7.0,4.1,751,488,595,121865,1733,High,No
+2025-10-08,Nursery,Nursery,Rohu,Autumn,24.2,Sunny,0.0,6.9,0.09,7.4,0,49955,6.1,4.1,640,516,610,124937,-1156,High,No
+2025-10-09,Nursery,Nursery,Rohu,Autumn,24.7,Sunny,0.0,7.2,0.01,7.1,0,49955,6.7,4.2,709,517,572,120012,1631,High,No
+2025-10-10,Nursery,Nursery,Rohu,Autumn,23.2,Cloudy,0.0,7.5,0.03,7.4,1,49954,6.3,4.3,656,501,588,126304,1778,High,No
+2025-10-11,Nursery,Nursery,Rohu,Autumn,25.4,Sunny,0.0,6.9,0.03,7.0,0,49954,6.2,4.4,667,467,607,133417,1898,High,No
+2025-10-12,Nursery,Nursery,Rohu,Autumn,23.5,Sunny,0.0,7.6,0.02,6.7,1,49953,6.4,4.5,648,492,620,139369,1954,High,No
+2025-10-13,Nursery,Nursery,Rohu,Autumn,28.3,Cloudy,0.0,6.9,0.03,6.8,0,49953,6.5,4.6,667,527,639,146832,1998,High,No
+2025-10-14,Nursery,Nursery,Rohu,Autumn,24.6,Sunny,0.0,7.1,0.02,7.3,0,49953,7.1,4.7,751,504,635,149085,1917,High,No
+2025-10-15,Nursery,Nursery,Rohu,Autumn,24.4,Sunny,0.0,7.3,0.03,7.0,1,49952,7.6,4.8,825,510,603,144581,1674,High,No
+2025-10-16,Nursery,Nursery,Rohu,Autumn,24.6,Sunny,0.0,7.1,0.02,7.4,1,49951,6.0,4.9,627,499,591,144653,1823,High,No
+2025-10-17,Nursery,Nursery,Rohu,Autumn,23.7,Sunny,0.0,6.7,0.03,6.6,1,49950,7.4,5.0,765,497,617,154096,1817,High,No
+2025-10-18,Nursery,Nursery,Rohu,Autumn,25.6,Sunny,0.0,7.5,0.07,6.7,2,49948,7.6,5.1,813,472,590,150294,1656,High,No
+2025-10-19,Nursery,Nursery,Rohu,Autumn,24.6,Sunny,0.0,7.0,0.04,7.1,0,49948,8.7,5.2,919,512,586,152202,1496,High,No
+2025-10-20,Nursery,Nursery,Rohu,Autumn,27.0,Sunny,0.0,7.4,0.09,5.6,0,49948,7.0,5.3,753,516,595,157511,1703,High,No
+2025-10-21,Nursery,Nursery,Rohu,Autumn,25.6,Cloudy,0.0,6.8,0.06,6.8,0,49948,7.5,5.4,768,486,592,159674,1703,High,No
+2025-10-22,Nursery,Nursery,Rohu,Autumn,26.4,Sunny,0.0,6.9,0.08,7.0,0,49948,8.4,5.5,902,497,607,166751,1633,High,No
+2025-10-23,Nursery,Nursery,Rohu,Autumn,26.6,Sunny,0.0,7.5,0.02,6.8,0,49948,9.0,5.7,917,495,589,167690,4472,High,No
+2025-10-24,Nursery,Nursery,Rohu,Autumn,27.7,Sunny,0.0,7.3,0.14,6.1,7,49941,8.3,5.8,867,506,602,174374,1609,High,No
+2025-10-25,Nursery,Nursery,Rohu,Autumn,24.3,Sunny,0.0,7.1,0.05,7.4,1,49940,7.2,5.9,762,492,629,185332,1884,High,No
+2025-10-26,Nursery,Nursery,Rohu,Autumn,23.9,Sunny,0.0,7.3,0.01,7.2,1,49939,9.6,6.0,1012,514,602,180380,1477,High,No
+2025-10-27,Nursery,Nursery,Rohu,Autumn,24.2,Sunny,0.0,6.9,0.05,7.0,1,49938,9.4,6.2,1007,501,627,194129,4750,High,No
+2025-10-28,Nursery,Nursery,Rohu,Autumn,22.0,Rainy,2.6,7.2,0.03,7.0,3,49935,10.7,6.3,1084,462,622,195675,1548,High,No
+2025-10-29,Nursery,Nursery,Rohu,Autumn,25.3,Sunny,0.0,7.2,0.08,6.8,0,49935,7.6,6.4,800,507,611,195266,1744,High,No
+2025-10-30,Nursery,Nursery,Rohu,Autumn,26.3,Sunny,0.0,7.1,0.06,6.6,0,49935,9.9,6.6,1063,515,594,195765,4354,High,No
+2025-10-31,Nursery,Nursery,Rohu,Autumn,25.6,Sunny,0.0,6.9,0.19,6.5,7,49928,8.1,6.7,851,483,619,207066,1728,High,No
+2025-11-01,Nursery,Nursery,Rohu,Autumn,25.3,Sunny,0.0,7.2,0.02,7.4,1,49927,10.0,6.8,1027,506,596,202344,1439,High,No
+2025-11-02,Nursery,Nursery,Rohu,Autumn,25.4,Sunny,0.0,7.2,0.07,7.2,0,49927,11.7,7.0,1252,527,600,209693,4212,High,No
+2025-11-03,Nursery,Nursery,Rohu,Autumn,22.6,Cloudy,0.0,7.1,0.08,7.0,0,49927,10.4,7.1,1079,502,606,214816,1445,High,No
+2025-11-04,Nursery,Nursery,Rohu,Autumn,25.4,Sunny,0.0,6.9,0.04,5.9,0,49927,9.7,7.3,1003,517,600,218680,4471,High,No
+2025-11-05,Nursery,Nursery,Rohu,Autumn,25.3,Sunny,0.0,7.2,0.02,7.5,2,49925,12.3,7.5,1268,493,587,219795,4092,High,No
+2025-11-06,Nursery,Nursery,Rohu,Autumn,26.7,Sunny,0.0,7.1,0.02,7.1,3,49922,13.0,7.6,1360,500,573,217400,988,High,No
+2025-11-07,Nursery,Nursery,Rohu,Autumn,28.0,Sunny,0.0,6.9,0.08,6.1,1,49921,10.5,7.8,1106,497,617,240250,4553,High,No
+2025-11-08,Nursery,Nursery,Rohu,Autumn,25.9,Sunny,0.0,7.2,0.12,6.8,4,49917,10.8,7.9,1107,494,610,240550,1425,High,No
+2025-11-09,Nursery,Nursery,Rohu,Autumn,23.9,Sunny,0.0,7.7,0.01,6.6,1,49916,13.2,8.1,1358,498,569,230058,3820,High,No
+2025-11-10,Nursery,Nursery,Rohu,Autumn,25.5,Sunny,0.0,7.1,0.01,7.6,0,49916,14.4,8.2,1492,476,587,240266,962,High,No
+2025-11-11,Nursery,Nursery,Rohu,Autumn,24.6,Sunny,0.0,7.6,0.07,6.8,0,49916,12.8,8.4,1320,495,603,252835,4205,High,No
+2025-11-12,Nursery,Nursery,Rohu,Autumn,25.8,Sunny,0.0,7.8,0.02,6.6,0,49916,12.8,8.6,1345,520,608,261001,4205,High,No
+2025-11-13,Nursery,Nursery,Rohu,Autumn,21.9,Cloudy,0.0,6.9,0.07,7.1,1,49915,14.2,8.8,1501,486,573,251691,3728,High,No
+2025-11-14,Nursery,Nursery,Rohu,Autumn,27.2,Cloudy,0.0,7.2,0.05,6.6,0,49915,10.7,9.0,1128,484,598,268643,4358,High,No
+2025-11-15,Nursery,Nursery,Rohu,Autumn,23.6,Sunny,0.0,7.8,0.04,7.3,1,49914,12.8,9.1,1350,501,610,277073,1188,High,No
+2025-11-16,Nursery,Nursery,Rohu,Autumn,23.5,Sunny,0.0,7.2,0.05,7.2,1,49913,13.5,9.3,1463,502,594,275729,3959,High,No
+2025-11-17,Nursery,Nursery,Rohu,Autumn,25.2,Sunny,0.0,7.2,0.05,6.8,1,49912,13.8,9.5,1461,506,605,286869,4067,High,No
+2025-11-18,Nursery,Nursery,Rohu,Autumn,24.6,Sunny,0.0,6.7,0.03,7.3,3,49909,12.6,9.7,1343,498,591,286113,4041,High,No
+2025-11-19,Nursery,Nursery,Rohu,Autumn,25.8,Sunny,0.0,7.0,0.01,7.1,1,49908,15.1,9.9,1573,501,616,304359,4069,High,No
+2025-11-20,Nursery,Nursery,Rohu,Autumn,25.3,Sunny,0.0,7.4,0.05,6.6,1,49907,12.0,10.1,1283,495,586,295380,4065,High,No
+2025-11-21,Nursery,Nursery,Rohu,Autumn,26.8,Rainy,1.8,7.9,0.09,6.1,0,49907,12.7,10.2,1322,481,579,294741,1087,High,No
+2025-11-22,Nursery,Nursery,Rohu,Autumn,24.7,Sunny,0.0,7.1,0.01,7.5,0,49907,14.7,10.4,1556,499,601,311939,3944,High,No
+2025-11-23,Nursery,Nursery,Rohu,Autumn,29.7,Sunny,0.0,6.7,0.01,6.8,0,49907,17.5,10.7,1790,511,574,306519,6293,High,No
+2025-11-24,Nursery,Nursery,Rohu,Autumn,28.9,Sunny,0.0,6.8,0.05,6.4,0,49907,18.9,10.9,1991,508,562,305720,3111,High,No
+2025-11-25,Nursery,Nursery,Rohu,Autumn,25.9,Sunny,0.0,7.2,0.04,7.4,2,49905,17.1,11.1,1762,474,620,343446,3939,High,No
+2025-11-26,Nursery,Nursery,Rohu,Autumn,21.5,Cloudy,0.0,7.6,0.05,6.5,1,49904,17.8,11.4,1902,504,582,331103,6301,High,No
+2025-11-27,Nursery,Nursery,Rohu,Autumn,24.1,Sunny,0.0,7.4,0.02,7.0,0,49904,16.5,11.6,1761,487,576,333439,3501,High,No
+2025-11-28,Nursery,Nursery,Rohu,Autumn,23.9,Sunny,0.0,7.3,0.07,6.5,0,49904,14.1,11.8,1467,521,585,344487,3851,High,No
+2025-11-29,Nursery,Nursery,Rohu,Autumn,24.4,Rainy,0.9,7.6,0.04,8.3,0,49904,16.6,12.1,1811,505,585,353245,6442,High,No
+2025-11-30,Nursery,Nursery,Rohu,Autumn,23.7,Sunny,0.0,7.0,0.06,7.5,1,49903,15.5,12.3,1619,513,597,366443,3819,High,No
+2025-12-01,Nursery,Nursery,Rohu,Winter,11.5,Sunny,0.0,7.2,0.05,9.0,0,49903,10.5,12.4,1069,500,484,299498,846,High,No
+2025-12-02,Nursery,Nursery,Rohu,Winter,14.7,Sunny,0.0,7.0,0.05,8.9,3,49900,9.2,12.5,952,499,507,316241,1060,High,No
+2025-12-03,Nursery,Nursery,Rohu,Winter,15.5,Sunny,0.0,7.1,0.06,8.9,1,49899,10.7,12.6,1101,522,510,320651,915,High,No
+2025-12-04,Nursery,Nursery,Rohu,Winter,14.8,Cloudy,0.0,6.9,0.05,9.0,1,49898,8.7,12.7,920,515,481,304812,959,High,No
+2025-12-05,Nursery,Nursery,Rohu,Winter,13.7,Cloudy,0.0,7.1,0.0,9.0,2,49896,9.6,12.9,984,502,491,316036,3401,High,No
+2025-12-06,Nursery,Nursery,Rohu,Winter,11.8,Sunny,0.0,7.2,0.07,8.7,2,49894,8.4,13.0,873,497,492,319122,1072,High,No
+2025-12-07,Nursery,Nursery,Rohu,Winter,15.2,Cloudy,0.0,7.1,0.06,8.2,1,49893,11.1,13.1,1172,474,498,325492,832,High,No
+2025-12-08,Nursery,Nursery,Rohu,Winter,15.5,Sunny,0.0,7.2,0.02,8.1,1,49892,9.2,13.3,969,505,516,342399,3668,High,No
+2025-12-09,Nursery,Nursery,Rohu,Winter,12.9,Sunny,0.0,7.3,0.02,9.0,3,49889,10.2,13.4,1071,498,517,345621,990,High,No
+2025-12-10,Nursery,Nursery,Rohu,Winter,15.2,Sunny,0.0,7.6,0.07,8.3,0,49889,8.9,13.5,937,508,537,361670,1234,High,No
+2025-12-11,Nursery,Nursery,Rohu,Winter,15.7,Cloudy,0.0,7.6,0.01,8.4,1,49888,8.4,13.6,876,513,466,316170,929,High,No
+2025-12-12,Nursery,Nursery,Rohu,Winter,16.4,Sunny,0.0,7.4,0.07,8.0,1,49887,10.9,13.8,1110,518,486,334582,3214,High,No
+2025-12-13,Nursery,Nursery,Rohu,Winter,17.1,Sunny,0.0,6.8,0.04,9.0,0,49887,11.7,13.9,1219,505,527,365437,905,High,No
+2025-12-14,Nursery,Nursery,Rohu,Winter,17.7,Sunny,0.0,7.1,0.08,8.4,1,49886,11.6,14.1,1229,484,473,332705,3000,High,No
+2025-12-15,Nursery,Nursery,Rohu,Winter,14.6,Cloudy,0.0,7.1,0.04,9.0,0,49886,9.1,14.3,953,468,527,375946,3837,High,No
+2025-12-16,Nursery,Nursery,Rohu,Winter,14.7,Cloudy,0.0,7.0,0.02,9.0,0,49886,10.7,14.4,1132,488,502,360616,884,High,No
+2025-12-17,Nursery,Nursery,Rohu,Winter,13.9,Sunny,0.0,7.3,0.05,8.7,0,49886,12.2,14.5,1267,520,503,363844,722,High,No
+2025-12-18,Nursery,Nursery,Rohu,Winter,15.7,Sunny,0.0,6.7,0.16,7.8,6,49880,12.7,14.7,1359,527,481,352687,2871,High,No
+2025-12-19,Nursery,Nursery,Rohu,Winter,19.0,Rainy,0.4,7.7,0.02,7.5,0,49880,10.1,14.8,1009,496,493,363944,954,High,No
+2025-12-20,Nursery,Nursery,Rohu,Winter,15.5,Sunny,0.0,7.6,0.11,7.5,5,49875,12.0,15.0,1263,478,526,393514,3467,High,No
+2025-12-21,Nursery,Nursery,Rohu,Winter,12.5,Sunny,0.0,7.3,0.01,9.0,1,49874,9.4,15.2,1012,490,499,378284,3468,High,No
+2025-12-22,Nursery,Nursery,Rohu,Winter,14.8,Sunny,0.0,7.2,0.03,8.2,2,49872,12.8,15.4,1382,517,493,378638,3003,High,No
+2025-12-23,Nursery,Nursery,Rohu,Winter,15.6,Sunny,0.0,7.6,0.09,8.3,4,49868,12.8,15.5,1338,491,506,391115,663,High,No
+2025-12-24,Nursery,Nursery,Rohu,Winter,17.9,Rainy,3.0,7.4,0.02,8.8,2,49866,11.5,15.7,1177,509,497,389099,3255,High,No
+2025-12-25,Nursery,Nursery,Rohu,Winter,16.4,Sunny,0.0,7.5,0.03,8.1,0,49866,10.2,15.8,1099,503,505,397881,916,High,No
+2025-12-26,Nursery,Nursery,Rohu,Winter,13.9,Cloudy,0.0,7.2,0.03,9.0,2,49864,12.8,16.0,1343,511,487,388540,2987,High,No
+2025-12-27,Nursery,Nursery,Rohu,Winter,17.9,Sunny,0.0,7.7,0.02,7.7,0,49864,12.3,16.2,1288,527,499,403091,3161,High,No
+2025-12-28,Nursery,Nursery,Rohu,Winter,18.2,Cloudy,0.0,7.6,0.02,8.7,0,49864,10.3,16.3,1063,509,490,398264,871,High,No
+2025-12-29,Nursery,Nursery,Rohu,Winter,14.8,Sunny,0.0,7.4,0.01,8.9,2,49862,10.6,16.4,1087,502,473,386790,754,High,No
+2025-12-30,Nursery,Nursery,Rohu,Winter,15.6,Cloudy,0.0,7.6,0.04,9.0,1,49861,12.2,16.6,1295,529,507,419640,3224,High,No
+2025-12-31,Nursery,Nursery,Rohu,Winter,15.8,Sunny,0.0,7.1,0.03,7.9,0,49861,11.2,16.8,1191,505,481,402917,3101,High,No
